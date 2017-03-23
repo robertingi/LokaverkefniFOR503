@@ -1,0 +1,7 @@
+C:\Users\Robert\Desktop\ConsoleApplication1 - Copy (2)\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Robert\Desktop\ConsoleApplication1 - Copy (2)\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Robert\Desktop\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Robert\Desktop\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Robert\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\Robert\Desktop\Server\Server\bin\Debug\Server.pdb
